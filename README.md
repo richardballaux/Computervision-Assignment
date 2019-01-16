@@ -1,5 +1,5 @@
 # ToolBox-ComputerVision
 
-Image Processing and Computer Vision Project Toolbox starter code
+This was a school assignment I made for my Olin class, Software Design in the fall of 2018.
 
-Instructions are on the [the toolbox page](https://sd18fall.github.io/toolboxes/image-processing).
+More information and instructions can be found on [the toolbox page](https://sd18fall.github.io/toolboxes/image-processing).
