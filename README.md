@@ -10,4 +10,4 @@ I also added boxes in front of the eyes and the mouth. The ratio and the positio
 
 ## Example
 This picture shows the result:
-!(https://github.com/richardballaux/toolbox-computer-vision-rballaux/blob/master/Screenshot%20from%202018-11-06%2000-52-30.png "Result")
+![alt-text](https://github.com/richardballaux/toolbox-computer-vision-rballaux/blob/master/Screenshot%20from%202018-11-06%2000-52-30.png "Result")
