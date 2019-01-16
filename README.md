@@ -9,4 +9,5 @@ The script draws an empty square round a face.
 I also added boxes in front of the eyes and the mouth. The ratio and the position of those squares is linked to the big squares.
 
 ## Example
-This picture shows the result.
+This picture shows the result:
+![alt text](https://github.com/richardballaux/toolbox-computer-vision-rballaux/ "Result")
